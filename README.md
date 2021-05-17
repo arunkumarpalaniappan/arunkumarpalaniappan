@@ -1,4 +1,4 @@
-### Hi there, I'm [Arun](https://practice.sh) 
+### Hi there, I'm [Arun](https://akrp.in) 
 <p>
 <a href="https://www.linkedin.com/in/arunkumarpalaniappan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
